@@ -30,6 +30,6 @@ This project is a Python console-based parking management application for the KZ
 ## Default roles
 
 - Admin username: `admin`
-- Admin password: `admin123`
+- Admin password: `****`
 - Owner username: `owner`
-- Owner password: `owner123`
+- Owner password: `****`
